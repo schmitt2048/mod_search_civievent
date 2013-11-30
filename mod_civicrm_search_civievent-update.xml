@@ -1,0 +1,35 @@
+<updates>
+<update>
+<name>CiviEvent Search Results Module</name>
+<description>A Joomla module for CiviCRM that displays search results of CiviEvent events from the component com_search_civievent.  Authored by Andrew Schmitt based on the base Joomla! code in mod_search.
+</description>
+<element>mod_search_civievent</element>
+<type>module</type>
+<client>0</client>
+<!--
+ For a plugin, we would add a <folder> element with the plugin type (authentication, content, etc.). 
+-->
+<!--  For example, <folder>system</folder> -->
+<!--
+ For a plugin, we would add a <client> element with a value of 0 (<client>0</client>). 
+-->
+<version>c.20131130.1611</version>
+
+<!--
+ This will be the component version after the update. 
+-->
+<infourl title="CiviEvent Search Results Module for Joomla!">https://github.com/schmitt2048/mod_search_civievent</infourl>
+<downloads>
+<!--
+ Careful: No spaces or new lines are allowed in the downloadurl. 
+-->
+<downloadurl type="full" format="zip">>https://github.com/schmitt2048/mod_search_civievent/archive/master.zip</downloadurl>
+</downloads>
+<maintainer>Andrew Schmitt</maintainer>
+<maintainerurl>https://github.com/schmitt2048/mod_search_civievent</maintainerurl>
+<targetplatform name="joomla" version="2.5"/>
+<!--
+ This is the version of Joomla that this update works in. 
+-->
+</update>
+</updates>
